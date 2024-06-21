@@ -1,4 +1,4 @@
-# NodejsConsoleApp
+# Slidely_Task2_AI Backend
 
 Copy the url and use it the version control.
 
