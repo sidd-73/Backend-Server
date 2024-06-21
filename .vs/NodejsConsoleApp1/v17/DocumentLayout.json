@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B507D12-9A19-435D-854A-5A689C967B41}|NodejsConsoleApp1.njsproj|C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7B507D12-9A19-435D-854A-5A689C967B41}|NodejsConsoleApp1.njsproj|solutionrelative:app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B507D12-9A19-435D-854A-5A689C967B41}|NodejsConsoleApp1.njsproj|C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B507D12-9A19-435D-854A-5A689C967B41}|NodejsConsoleApp1.njsproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B507D12-9A19-435D-854A-5A689C967B41}|NodejsConsoleApp1.njsproj|C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\src\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B507D12-9A19-435D-854A-5A689C967B41}|NodejsConsoleApp1.njsproj|solutionrelative:src\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B507D12-9A19-435D-854A-5A689C967B41}|NodejsConsoleApp1.njsproj|C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7B507D12-9A19-435D-854A-5A689C967B41}|NodejsConsoleApp1.njsproj|solutionrelative:src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B507D12-9A19-435D-854A-5A689C967B41}|NodejsConsoleApp1.njsproj|C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7B507D12-9A19-435D-854A-5A689C967B41}|NodejsConsoleApp1.njsproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B507D12-9A19-435D-854A-5A689C967B41}|NodejsConsoleApp1.njsproj|C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B507D12-9A19-435D-854A-5A689C967B41}|NodejsConsoleApp1.njsproj|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-21T16:25:32.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\src\\data.json",
+              "RelativeDocumentMoniker": "src\\data.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\src\\data.json",
+              "RelativeToolTip": "src\\data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T13:37:58.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T09:25:00.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T09:13:30.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\src\\index.ts",
+              "RelativeDocumentMoniker": "src\\index.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\src\\index.ts",
+              "RelativeToolTip": "src\\index.ts",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-21T09:13:17.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\app.ts",
+              "RelativeDocumentMoniker": "app.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NodejsConsoleApp1\\app.ts",
+              "RelativeToolTip": "app.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-21T09:08:57.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
